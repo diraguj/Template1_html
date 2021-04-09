@@ -1,0 +1,30 @@
+body{
+	background-color: aliceblue;
+	color: slategray;
+	text-transform: unset;
+}
+.raw_one,.raw_three {
+	    display: flex;
+	    margin: 1% 10%;	
+}
+.one,.two,.four,.five{
+	/*width: 25%;*/
+	border: 1px solid ;
+	padding: 2%;
+    background-image: url(./image/img_1.jpg);
+}
+.raw_two{
+	    margin: 1% 10%;	
+}
+.three{
+	width: 87%;
+	border: 1px solid ;
+	padding: 2%;	
+    background-image: url(./image/img_1.jpg);
+	    margin: 0% 0%;	
+}
+
+.template_head{
+	text-align: center;
+    color: black;
+}
